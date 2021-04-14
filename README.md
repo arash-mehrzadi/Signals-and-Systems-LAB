@@ -16,5 +16,5 @@
  
 | Chapter - Section    | Title                    |Tags                                                        |
 | -------------------- |:------------------------:|:----------------------------------------------------------:|
-| Ch0-0                | Basic Concepts           |#Discrete/Continuous time Signal #Even/Odd signals #AC/DC   |
+| Ch0-0                | [Basic Concepts](https://github.com/arash-mehrzadi/Signals-and-Systems-LAB/blob/main/CH0/Ch0-0.ipynb)|#Discrete/Continuous time Signal #Even/Odd signals #AC/DC   |
 | Ch1-0                | Soon ...                 |    ...   |
