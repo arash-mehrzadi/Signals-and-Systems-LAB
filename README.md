@@ -16,5 +16,5 @@
  
 | Chapter - Section    | Title                    |Tags                                                        |
 | -------------------- |:------------------------:|:----------------------------------------------------------:|
-| Ch0-0                | Unknown                  |       |
-| Ch0-1                | Unknown                  |       |
+| Ch0-0                | Basic Concepts           |#Discrete/Continuous time Signal #Even/Odd signals #AC/DC   |
+| Ch1-0                | Soon ...                 |    ...   |
