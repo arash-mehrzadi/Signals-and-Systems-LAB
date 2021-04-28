@@ -20,6 +20,7 @@
 | Ch1-0                | [Signals 1](https://github.com/arash-mehrzadi/Signals-and-Systems-LAB/blob/main/CH1/Ch1_0.ipynb)|#exponential signal #cosine signals #step function|
 | Ch2-0                | [Signals 2](https://github.com/arash-mehrzadi/Signals-and-Systems-LAB/blob/main/CH2/Ch2_0.ipynb)|#diract delta function #ramp functions|
 | Ch2-1                | [Doublet Function](https://github.com/arash-mehrzadi/Signals-and-Systems-LAB/blob/main/CH2/Ch2_1.ipynb)|#doublet fuction|
+| Ch3-0                | Soon...| |
 
 
 <p align="left">
