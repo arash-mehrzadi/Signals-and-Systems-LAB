@@ -24,7 +24,7 @@
 |Ch4-0                 |[LTI Systems](https://github.com/arash-mehrzadi/Signals-and-Systems-LAB/tree/main/CH4)|#LTI #Convolution|
 |Ch5-0                 |[Fourier transforms](https://github.com/arash-mehrzadi/Signals-and-Systems-LAB/tree/main/CH5)|#Fouriertransforms #Scipy|
 |Ch6-0                 |[ECG Signals](https://github.com/arash-mehrzadi/Signals-and-Systems-LAB/tree/main/CH6) | #ECG_Signals|
-|Ch7-0                 |[Soon...]|                                                   | ... |
+|Ch7-0                 |[Bode Plots](https://github.com/arash-mehrzadi/Signals-and-Systems-LAB/tree/main/CH7)|#Bode Plots|                                       |Ch8-0                 |[Transfer Function](https://github.com/arash-mehrzadi/Signals-and-Systems-LAB/tree/main/CH8)|#Transfer Function|
 
 
 <p align="left">
